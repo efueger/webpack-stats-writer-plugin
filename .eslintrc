@@ -1,6 +1,1 @@
-#{
-#  "extends": [
-#    "./node_modules/coding-style/base/eslintrc.json",
-#    "./node_modules/coding-style/node/eslintrc.json"
-#  ]
-#}
+
